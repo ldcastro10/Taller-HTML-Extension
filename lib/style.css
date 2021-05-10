@@ -1,0 +1,90 @@
+/* Add your styles here */
+
+.col {
+  background-color: black;
+  color: white;
+}
+
+.segundaRow {
+  background-color: green;
+}
+
+#col2 {
+  padding: 15px;
+}
+
+#colImagen {
+  padding: 0%;
+  position: relative;
+}
+
+#col2 {
+  position: relative;
+}
+
+.prueba {
+  padding: 25px;
+  height: 33.3%;
+  margin: 0%;
+}
+
+.colConPadding {
+  position: relative;
+  padding: 0%;
+}
+
+.ultimoRow {
+  background-color: black;
+}
+
+.ultimaColumna {
+  margin: 25px;
+}
+
+.penultimaColumna {
+  position: relative;
+  margin: 25px;
+}
+
+#imagenHBO {
+  position: absolute;
+  top: 10%;
+}
+
+#imagenPlay {
+  position: absolute;
+  bottom: 10%;
+}
+
+.imagenX4 {
+  width: 100%;
+  height: 80%;
+}
+
+#imagenPrincipal {
+  height: 100%;
+}
+
+.letraParrafo {
+  text-align: justify;
+}
+
+h3 {
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+.columnaReconocimientos {
+  padding: 25px;
+}
+
+#Reseñas {
+  text-align: center;
+}
+
+.fotosX4{
+  padding-top: 30px;
+}
